@@ -8,8 +8,7 @@ This project allows to keep the employees updates of the database in realtime, a
 - Console.table
 
 ## 🚀 Deployment
-https://peaceful-moxie-1a32de.netlify.app/
-
+[Check The Video Demo](https://drive.google.com/file/d/1sjaWiJcAevtkA9waz3prUSZipcQYchkL/view?usp=sharing)
 
 ## 💻 Installation
 

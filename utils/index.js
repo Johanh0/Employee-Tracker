@@ -7,7 +7,7 @@ function init() {
   console.table(`
   ***********************************
   *                                 *
-  *         Employee Tracker        *
+  *  ─── ❝ Employee  Tracker ❞ ───  *
   *                                 *
   ***********************************
   `);
